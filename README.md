@@ -119,7 +119,7 @@ git push -u origin main
 
 # Set Up Your Project 
 
-<a href="https://app.circleci.com/projects/github/Avnish327030/setup/"> Setup project </a>
+<a href="https://app.circleci.com/projects/github/laijupjoy/setup/"> Setup project </a>
 
 # Select Project Setting In CircleCI And  Set Below Environment Variable
 
