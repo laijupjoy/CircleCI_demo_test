@@ -117,6 +117,8 @@ git push -u origin main
 
 <a href="https://circleci.com/login/">Circle CI</a>
 
+![](setup.png)
+
 # Set Up Your Project 
 
 <a href="https://app.circleci.com/projects/github/laijupjoy/setup/"> Setup project </a>
